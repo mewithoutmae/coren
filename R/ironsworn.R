@@ -1,4 +1,3 @@
-
 #' Ironsworn Dice Roll
 #'
 #' Rolls 1d6 and compares it against 2d10.
